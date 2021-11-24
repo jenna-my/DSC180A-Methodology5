@@ -1,0 +1,4 @@
+{
+    "mdl_fp": "data/out/model.joblib",
+    "predictions_fp": "data/out/preds.csv"
+}
