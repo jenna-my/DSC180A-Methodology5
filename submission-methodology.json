@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "jmy001/180a_methodology_3",
+    "build-script": "python run.py"
+}
